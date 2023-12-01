@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Ml%20projects/adult_sensos_project/mlruns/0/a66e3a5a89bc49cfbdb1bf5c38893b7c/artifacts
+end_time: 1701404761085
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a66e3a5a89bc49cfbdb1bf5c38893b7c
+run_name: painted-perch-959
+run_uuid: a66e3a5a89bc49cfbdb1bf5c38893b7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701404757934
+status: 3
+tags: []
+user_id: mmanoj

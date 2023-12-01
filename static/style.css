@@ -1,0 +1,71 @@
+body {
+    background-color: #ecf0f1; /* Change background color */
+    font-family: 'Helvetica', sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #2c3e50; /* Change heading color */
+}
+
+form {
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    max-width: 400px;
+    background-color: #f5f5f5;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+    color: #333; /* Change label color */
+}
+
+input[type="text"] {
+    width: calc(100% - 22px);
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: #2ecc71;
+    color: white;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+button:hover {
+    background-color: #2980b9; /* Change hover color */
+}
+
+select {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+select option {
+    font-size: 16px;
+}
+
+.result-box {
+    border: 2px solid #3498db;
+    padding: 20px;
+    background-color: #ecf0f1; /* Change background color */
+    margin-top: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    color: #2c3e50; /* Change text color */
+}

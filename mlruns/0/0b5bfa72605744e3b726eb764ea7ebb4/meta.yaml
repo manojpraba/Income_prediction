@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Ml%20projects/adult_sensos_project/mlruns/0/0b5bfa72605744e3b726eb764ea7ebb4/artifacts
+end_time: 1701437232067
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b5bfa72605744e3b726eb764ea7ebb4
+run_name: hilarious-hen-877
+run_uuid: 0b5bfa72605744e3b726eb764ea7ebb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701437227888
+status: 3
+tags: []
+user_id: mmanoj

@@ -1,0 +1,9 @@
+from src.Adult_income_prediction.components.data_ingestion import DataIngestion
+from src.Adult_income_prediction.components.data_transformation import Data_Transformation
+from src.Adult_income_prediction.components.model_trainer import Model_Trainer
+obj=DataIngestion()
+training_path,test_path=obj.initiate_data_ingestion()
+data_transformation=Data_Transformation()
+train_array,test_array,preprocessor=data_transformation.Data_Transformation_primary(training_path,test_path)
+model_tainer_obj=Model_Trainer()
+model_tainer_obj.model_trainer(train_array,test_array)
