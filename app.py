@@ -30,6 +30,11 @@ def predict_datapoint():
         final_new_data = data.get_as_dataframe()
         predict_pipline = PredictionPipeline()
         pred = predict_pipline.Predict(final_new_data)
+        if pred ==0:
+            pred='<=50K'
+        else:
+            pred='>50K'
+
         result = pred
 
         return render_template("results.html",final_result = result)
@@ -41,5 +46,7 @@ def predict_datapoint():
 
 
 if __name__ == "__main__":
+    
     app.run(host='0.0.0.0',port=8080)
+    
     

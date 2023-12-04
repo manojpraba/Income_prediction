@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Ml%20projects/adult_sensos_project/mlruns/0/84840c7425d143989045fa6c300c9574/artifacts
+end_time: 1701611525336
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 84840c7425d143989045fa6c300c9574
+run_name: upset-dog-825
+run_uuid: 84840c7425d143989045fa6c300c9574
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701611521173
+status: 3
+tags: []
+user_id: mmanoj
