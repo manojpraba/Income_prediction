@@ -7,4 +7,5 @@ This is a classification problem where we need to predict whether a person earns
 ......
 
 ## Input
+![alt tag](images/Index page.png)
 
