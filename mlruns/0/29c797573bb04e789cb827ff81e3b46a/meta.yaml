@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Ml%20projects/adult_sensos_project/mlruns/0/29c797573bb04e789cb827ff81e3b46a/artifacts
+end_time: 1701858828364
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 29c797573bb04e789cb827ff81e3b46a
+run_name: painted-stoat-360
+run_uuid: 29c797573bb04e789cb827ff81e3b46a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701858824553
+status: 3
+tags: []
+user_id: mmanoj
