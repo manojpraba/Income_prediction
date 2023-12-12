@@ -3,8 +3,8 @@
 
 ## Problem Statement:
 The Goal is to predict whether a person has an income of more than 50K a year or not.
-This is basically a binary classification problem where a person is classified into the 
->50K group or <=50K group.
+This is basically a binary classification problem where a person is classified into the **>50K group** or **<=50K group**.
+
 
 ## End To End Project 
 
@@ -19,6 +19,21 @@ This is a classification problem where we need to predict whether a person earns
 
 ## MLFLOW UI
 ![alt tag](https://github.com/manojpraba/Income_prediction/blob/main/images/mlflow%20ui.png)
+
+### Model performance for Training set
+- Accuracy: 0.8676
+- F1 score: 0.6874
+- Precision: 0.8261
+- Recall: 0.5885
+- Roc Auc Score: 0.7739
+----------------------------------
+### Model performance for Test set
+- Accuracy: 0.8473
+- F1 score: 0.6496
+- Precision: 0.7810
+- Recall: 0.5560
+- Roc Auc Score: 0.7514
+
 
 ## Libraries used
 #### Flask
@@ -39,5 +54,4 @@ This is a classification problem where we need to predict whether a person earns
 
 ## Workflow
 ![alt tag](https://github.com/manojpraba/Income_prediction/blob/main/images/Architecture.jpg)
-
 
